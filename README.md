@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31913904/README.md)
+
 # TerraPath — 3D Terrain Route & Construction Planner
 
 An open-source geometry and route-planning lab by **Ankit Kumar Panda**. Explore shortest surface paths on a cone, compare routes across a terrain mesh, and estimate the material required for a uniform construction layer.
